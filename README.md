@@ -1,8 +1,8 @@
 # DIVID SDK
 
-It is a sample project with DIVID SDK.
+It is a sample project with LiveCom SDK.
 
-You should call LiveCom.configure method as soon as possible. Because it needs time to loads some sdk configuration from network. [Methods and parameters describing](https://dividio.atlassian.net/wiki/spaces/DED/pages/221118465/LiveCom+methods+and+parameters)
+You should call LiveCom.configure method as soon as possible. Because it needs time to loads some sdk configuration from network. [Methods and parameters describing](https://github.com/LiveComSollutions/livecom-android-documentation)
 
     LiveCom.configure(  
         applicationContext = this,  
