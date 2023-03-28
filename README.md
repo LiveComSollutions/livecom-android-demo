@@ -1,4 +1,4 @@
-# DIVID SDK
+# LiveCom SDK
 
 It is a sample project with LiveCom SDK.
 
