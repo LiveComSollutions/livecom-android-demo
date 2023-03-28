@@ -2,7 +2,7 @@
 
 It is a sample project with LiveCom SDK.
 
-You should call LiveCom.configure method as soon as possible. Because it needs time to loads some sdk configuration from network. [Methods and parameters describing](https://github.com/LiveComSollutions/livecom-android-documentation)
+You should call LiveCom.configure method as soon as possible. Because it needs time to loads some sdk configuration from network. [Methods and parameters description](https://github.com/LiveComSollutions/livecom-android-documentation)
 
     LiveCom.configure(  
         applicationContext = this,  
