@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SdkDemoApp</string>
+    <string name="checkout_title">Checkout screen. Products in cart: %d</string>
+    <string name="video_list_screen">VideoList screen</string>
+    <string name="video_screen">Video screen</string>
+    <string name="video_list_plus_video_screen">VideoList screen + Video screen</string>
+    <string name="video_list_plus_video_plus_product_screen">VideoList screen + Video screen + Product screen</string>
+    <string name="checkout_screen">Checkout screen</string>
+    <string name="product_in_cart">Products in cart: %d</string>
+    <string name="settings">Settings</string>
+    <string name="continue_button">Continue</string>
+    <string name="product_sku">Product SKU: %s</string>
+    <string name="sdk_key">SDK key</string>
+    <string name="show_custom_checkout">Show custom checkout: </string>
+    <string name="show_custom_product">Show custom product: </string>
+    <string name="stream_id_label">Stream id</string>
+    <string name="product_sku_label">Product SKU</string>
+</resources>
